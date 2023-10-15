@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://stellar-moonbeam-31c69a.netlify.app](https://stellar-moonbeam-31c69a.netlify.app)
+- 👨‍💻 All of my projects are available at [https://verdant-daffodil-bc13f9.netlify.app](https://verdant-daffodil-bc13f9.netlify.app)
 
 - 💬 Ask me about **ReactJs, Vite, NextJs**
 
