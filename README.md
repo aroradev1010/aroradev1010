@@ -5,7 +5,6 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://verdant-daffodil-bc13f9.netlify.app/](https://verdant-daffodil-bc13f9.netlify.app/)
 
 - 💬 Ask me about **ReactJs, NextJs**
 
