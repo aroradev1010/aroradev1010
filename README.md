@@ -74,7 +74,6 @@ I believe open source is about more than writing code — it’s about collabora
 
 ## 🔗 Connect With Me
 
-- GitHub: https://github.com/aroradev1010  
 - Portfolio: https://devarora.vercel.app  
 - LinkedIn: https://www.linkedin.com/in/dev-arora-815609145/  
 - Email: aroradev1010@gmail.com
