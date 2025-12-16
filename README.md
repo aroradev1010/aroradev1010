@@ -1,21 +1,80 @@
-# 💫 About Me:
-🔭 I’m currently working on DevOps<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning Docker<br>💬 Ask me about ReactJS & NextJs<br>⚡ Fun fact How do you comfort a JavaScript bug? You console it!<br>👨‍💻 All of my projects are available at https://devarora.vercel.app/
+Hi there 👋  
+This is where I build things, break things, and learn by shipping real code.
 
+🔭 I’m currently working on production-grade full-stack systems    
+💬 Ask me about Next.js, React, Node.js, APIs, authentication, and scalable app design  
+👨‍💻 Most of my work lives here on GitHub  
+⚡ I enjoy understanding *why* systems are built the way they are, not just *how*
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dev-arora-815609145/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aroradev1010@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aroradev1010&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aroradev1010&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aroradev1010&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## ✨ About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+I am a B.Tech Computer Science student (2023–2027) with strong hands-on experience in full-stack web development.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aroradev1010&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I have built and maintained **production-grade applications** using Next.js, TypeScript, Node.js, and MongoDB, focusing on clean architecture, scalability, and maintainability. I am comfortable working with complex codebases, backend APIs, authentication systems, real-time data flow, and modular design.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am actively transitioning into **open-source development** to improve code quality, collaboration skills, and real-world engineering practices.
+
+---
+
+## 🧠 What I Like Working On
+
+- Full-stack applications with real users  
+- Backend APIs and data flow  
+- Authentication, authorization, and role-based systems  
+- Clean, modular codebases  
+- Understanding existing systems before extending them  
+
+---
+
+## 🚀 Selected Work
+
+### AI-Powered Blogging Platform
+A large-scale blogging platform built with Next.js and TypeScript, featuring role-based access control, secure authentication, and a custom Lexical rich-text editor integration.  
+Includes HTML serialization/deserialization, server-side sanitization, and reusable editor utilities, designed with scalability and maintainability in mind.
+
+### API Monitoring Dashboard
+A full-stack monitoring system with real-time Server-Sent Events (SSE), alerting rules, and a clean backend architecture.  
+Includes unit and E2E testing, Dockerized services, and a clear separation between frontend, backend, and infrastructure layers.
+
+### Personal Portfolio
+A modern developer portfolio showcasing my projects, technical focus, and experiments.  
+Built to be clean, performant, and minimal, with an emphasis on clear presentation rather than visual clutter.
+
+---
+
+## 🌱 Open Source Journey
+
+- Contributor to **freeCodeCamp** (merged pull request)
+- Actively exploring open-source repositories and reading large codebases
+- Preparing for deeper, long-term open-source contributions through structured programs
+
+I believe open source is about more than writing code — it’s about collaboration, learning from others, and improving software that people actually use.
+
+---
+
+## 🛠️ Languages & Tools
+
+**Languages**
+- JavaScript, TypeScript, Python, C/C++, Dart
+
+**Frontend**
+- React, Next.js, Tailwind CSS, Lexical
+
+**Backend**
+- Node.js, Express, REST APIs, MongoDB, Mongoose
+
+**Engineering & Tooling**
+- Git, Docker  
+- Jest, Playwright  
+- Basic CI and deployment workflows  
+
+---
+
+## 🔗 Connect With Me
+
+- GitHub: https://github.com/aroradev1010  
+- Portfolio: https://devarora.vercel.app  
+- LinkedIn: https://www.linkedin.com/in/dev-arora-815609145/  
+- Email: aroradev1010@gmail.com
