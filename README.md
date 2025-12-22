@@ -46,11 +46,9 @@ Built to be clean, performant, and minimal, with an emphasis on clear presentati
 
 ## 🌱 Open Source Journey
 
-- Contributor to **freeCodeCamp** (merged pull request)
-- Actively exploring open-source repositories and reading large codebases
-- Preparing for deeper, long-term open-source contributions through structured programs
-
-I believe open source is about more than writing code — it’s about collaboration, learning from others, and improving software that people actually use.
+- Contributor to **freeCodeCamp**
+- Active contributor to **NodeLink (PerformanC)** 
+- Comfortable navigating and contributing to large, real-world codebases
 
 ---
 
