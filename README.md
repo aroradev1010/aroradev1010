@@ -44,14 +44,6 @@ Built to be clean, performant, and minimal, with an emphasis on clear presentati
 
 ---
 
-## 🌱 Open Source Journey
-
-- Contributor to **freeCodeCamp**
-- Active contributor to **NodeLink (PerformanC)** 
-- Comfortable navigating and contributing to large, real-world codebases
-
----
-
 ## 🛠️ Languages & Tools
 
 **Languages**
